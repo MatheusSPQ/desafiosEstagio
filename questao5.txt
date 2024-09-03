@@ -1,0 +1,10 @@
+1-Ligo o interruptor A por uns 10 minutos
+2-Desligo A e ligo B
+3-Vou na sala 1
+  -Se estiver ligada então ela é controlada por B 
+  -Se estiver quente e desligada ela é controlada por A
+  -Se estiver fria e desligada ela é controlada por C
+4- Vou na sala 2
+  -Tendo determinado um interruptor verifico as condições que sobraram 
+  -Determino o interruptor da sala 2 
+5- o interruptor que sobrou controla a sala 3
